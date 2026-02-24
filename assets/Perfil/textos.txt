@@ -1,0 +1,13 @@
+Perfil
+
+
+
+
+Nulla vitae erat interdum, sodales eros eu, varius mi. In eget lectus facilisis, ullamcorper diam ut, malesuada tortor. Morbi at ligula ut augue semper pharetra quis non lorem. Ut vulputate mollis nulla, nec lobortis quam malesuada eu. Quisque ut nibh massa. 
+
+
+Nome: User
+Nick: nick
+Pts: 1M
+Gêneros: RPG (50%), Roguelike(28%), Outros (22%)
+Minutos jogados: 12.000
